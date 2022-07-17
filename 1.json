@@ -1,17 +1,17 @@
 {
-	"name": "Greytones",
-	"version": "1.1",
-	"description": "A greyish discord theme for enmity.",
-	"color": "#373A44",
+	"name": "kektones",
+	"version": "0.1",
+	"description": "funktionier einfach du hurensohn",
+	"color": "#373AFF",
         "authors": [
 		{
-			"name": "pwn",
-			"id": "892087916967362560"
+			"name": "inter",
+			"id": "292568139122737152"
 		}
 	],
 	"background": {
 		"blur": 0,
-		"url": "https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/.assets/bg/greytonesBG.png",
+		"url": " ",
 		"alpha": 1
 	},
 	"theme_color_map": {
